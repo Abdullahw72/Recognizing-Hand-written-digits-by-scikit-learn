@@ -15,3 +15,5 @@ This is a basic project for hand written digits recognition model for a virtual 
 
 
 In the attached Jupyter Notebook file, I have completed a lot of different analysis to prove this hypothesis, and I will be attaching a blog referring to my resultant analysis of this problem in a future commit.
+
+For more information, give a read to my blog based on this project: https://medium.com/@abdullahw72/recognizing-handwritten-digits-with-scikit-learn-5f698eb26681
