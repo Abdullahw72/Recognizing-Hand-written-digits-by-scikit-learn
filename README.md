@@ -1,4 +1,4 @@
-# Recognizing-Hand-written-digits-by-scikit-learn
+# Recognizing Hand Written Digits using scikit-learn
 
 Handwritten text recognition has been an issue since the earliest automatic computers were required to distinguish individual characters in handwritten manuscripts.
 
